@@ -1,3 +1,9 @@
+/* 
+ * Contains the jdbc connectivity containing 7 steps but not in modular way.
+ * 
+ * other package in the project contains 3 classes and contains jdbc connectivity in modeular way
+ */
+
 package com.jdbc;
 
 import java.sql.*;
